@@ -5,3 +5,4 @@ PyQt5
 ipykernel
 torch
 torchvision
+requests
